@@ -1,0 +1,16 @@
+{
+    "class":"alphanumeric",
+    "rwx":"number",
+    "owner":"alphanumeric",
+    "group":"alphanumeric",
+    "text":{
+           "es":"Usuario",
+           "en":"User" 
+           },
+    "add":"action",
+    "get":"action",
+    "delete":"action",
+    "update":"action",
+    "state":"action",
+    "collection":"structure"
+}

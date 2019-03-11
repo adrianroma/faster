@@ -1,0 +1,352 @@
+{
+    "start":[
+        
+        "block.script.default",
+        "block.variables.default",
+        "block.input.default",
+        "block.input.search",
+        "block.list.default",
+         "block.list.menu",
+         "block.header.default",
+         "block.input.search",
+         "block.content.default",
+         "block.footer.default",
+         "block.grid.default"
+    ]
+    ,
+    "work":["block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.default",
+     "block.list.menu",
+    "block.header.default",
+    "block.content.lists",
+    "block.footer.default",
+    "block.grid.lists"],
+    "login":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.login",
+    
+       "block.input.login",
+    "block.list.default",
+    
+    "block.content.login",
+    "block.footer.login",
+    "block.grid.lists"
+    ],
+    
+    "logout":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.login",
+    "block.input.logout",
+    "block.list.default",
+    "block.content.logout",
+    "block.footer.login",
+    "block.grid.lists"
+    ],
+    
+    
+     "register":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.header.register",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.register",
+    "block.footer.register",
+    "block.grid.lists"
+    ],
+    
+    "choice":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.register",
+    "block.input.choice",
+    "block.list.default",
+ 
+    "block.content.register",
+    "block.footer.register",
+    "block.grid.lists"
+    ],
+    
+    "services":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.services",
+    "block.list.default",
+ 
+    "block.content.services",
+    "block.footer.default",
+    "block.grid.lists"
+    ], 
+    
+    
+        "services":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.services",
+    "block.list.default",
+ 
+    "block.content.services",
+    "block.footer.default",
+    "block.grid.lists"
+    ], 
+    
+    "bindseller":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.bindseller",
+    "block.list.default",
+ 
+    "block.content.bindseller",
+    "block.footer.default",
+    "block.grid.lists"
+    ], 
+    
+        "verify":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.login",
+    "block.input.verify",
+    "block.list.default",
+ 
+    "block.content.register",
+    "block.footer.login",
+    "block.grid.lists"
+    ]
+    ,
+    "help":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+    "block.content.register",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    "account":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.account",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.account",
+   "block.footer.account",
+    "block.grid.lists"
+    ],
+    
+    "bids":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.account",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.account",
+    "block.footer.account",
+    "block.grid.lists"
+    ],
+    
+    
+    "clients":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.account",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.account",
+    "block.footer.account",
+    "block.grid.lists"
+    ],
+    
+    
+     "leads":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.account",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.account",
+     "block.footer.account",
+    "block.grid.lists"
+    ],
+    
+     "configuration":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.account",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.account",
+    "block.footer.account",
+    "block.grid.lists"
+    ],
+    
+    
+    "salesmanager":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.manager",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.account",
+    "block.footer.account",
+    "block.grid.lists"
+    ],
+    
+    
+    "demand":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+ 
+    "block.content.register",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    "sellers":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.register",
+    "block.list.default",
+    "block.content.register",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    
+    
+    "seller":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.seller",
+    "block.list.default",
+    "block.content.seller",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    
+
+    
+    
+    "production":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.seller",
+    "block.list.default",
+    "block.content.seller",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    
+    "business":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.business",
+    "block.list.default",
+    "block.content.business",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    
+    
+        "sellers":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.sellers",
+    "block.list.default",
+    "block.content.sellers",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    
+    
+    "earn":[
+    "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+    "block.input.earn",
+    "block.list.default",
+    "block.content.earn",
+    "block.footer.default",
+    "block.grid.lists"
+    ],
+    
+    
+    "404":[
+        
+                                  "block.script.default", 
+    "block.variables.default", 
+    "block.input.default",
+    "block.list.menu",
+    "block.header.default",
+                               "block.header.default",
+                                "block.list.default",
+                               "block.content.404",
+                               "block.footer.default",
+                               "block.grid.default"
+    ]
+    
+    
+}

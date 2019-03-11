@@ -1,0 +1,216 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+  
+*, *:before, *:after {
+    behavior: url(/css/border-radius.htc);
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+
+*:focus {
+    outline: none;
+}
+
+body{
+    width:100%;
+    margin:0px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-border-radius:0px;
+    -moz-border-radius: 0px;
+    appearance: none;
+    outline: none;
+    box-shadow: none;
+    padding:0;
+    border:0;
+    
+    
+}
+
+
+input{
+    width:100%;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    box-shadow: none;
+    padding:0;
+    border:0;
+}
+
+input:focus{
+    width:100% !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    box-shadow: none;
+    padding:0;
+    border:0;
+    
+
+}
+
+
+
+select{
+    min-width:100%;
+    max-width:100%;
+    width:100% !important;
+   -webkit-appearance: none;
+   -moz-appearance: none;
+    appearance: none;
+   padding:0;
+   border:0;
+   margin:0;
+   background-color:white;
+}
+
+table{
+    
+    width:100% !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border:0;
+    margin:0;
+}
+
+tr{
+    width:100% !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+td{
+    width:100% !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+
+select:focus{
+    min-width:100%;
+    max-width:100%;
+    width:100% !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin:0;
+    border:0;
+
+}
+
+select option{ 
+    min-width:100%;
+    max-width:100%;
+    width:100% !important;
+   -webkit-appearance: none;
+   -moz-appearance: none;
+   appearance: none;
+   margin:0;
+   border:0;
+   padding:0;
+
+ 
+  
+}
+
+textarea{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width:100%;
+    border:0;
+    margin:0;
+    padding:0;
+}
+
+p{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width:100%;
+    border:0;
+    margin:0;
+    padding:0;
+    float:left;
+}
+
+
+
+div{
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-border-radius:0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    width:100%;
+    border:0;
+    margin:0;
+    padding:0; 
+    
+}
+
+
+span{
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    width:100%;
+    border:0;
+    margin:0;
+    padding:0; 
+    
+}
+
+
+a{
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    width:100%;
+    border:0;
+    margin:0;
+    padding:0; 
+    
+}
+
+ul{
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    width:100%;
+    border:0;
+    margin:0;
+    padding:0; 
+    
+}
+
+li{
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    width:100%;
+    border:0;
+    margin:0;
+    padding:0; 
+    
+}

@@ -1,0 +1,19 @@
+ {
+            
+            "H" : {
+                     "host":"127.0.0.1",
+                     "port":"27017",
+                     "database":"profesion",
+                     "username":"general",
+                     "password":"papa700"
+            },            
+            
+            
+            "0" : {
+                    "host":"ds153123.mlab.com",
+                    "port":"53123",
+                    "database":"heroku_6fn1b5km",
+                    "username":"general",
+                    "password":"papa700"
+            }
+ }

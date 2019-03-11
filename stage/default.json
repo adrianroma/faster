@@ -1,0 +1,90 @@
+{
+    
+     "users": { 
+       "user.guest.default.prop.name":"guest",
+       "user.guest.default.prop.text.es":"Invitado",
+       "user.guest.default.prop.class":"user",
+       "user.guest.default.state.password":"",
+       "user.guest.default.state.email":"guest@email.com",
+       "user.guest.default.prop.rwx":"600", 
+       "user.store.admin.prop.name":"admin",
+       "user.store.admin.prop.text":"Admin",
+       "user.store.admin.prop.class":"admin",
+       "user.store.admin.state.password":"super",
+       "user.store.admin.state.email":"admin@email.com",
+       "user.store.default.prop.rwx":"600" 
+     },
+     "lists":{
+         
+         
+         
+        "list.id.main.prop.text.es":"Menu", 
+        "list.id.how.prop.text.es":"Funcionamiento", 
+        "list.id.work.prop.text.es":"Trabajo", 
+        "list.id.seller.prop.text.es":"Mapa", 
+        
+
+        
+        
+        "list.main.login.prop.name":"login",
+        "list.main.login.prop.text.es":"Ingresar",
+        "list.main.login.prop.action":"ingresar",
+        "list.main.login.prop.input":["nick","password","email"],
+        "list.main.register.prop.name":"register",
+        "list.main.register.prop.text.es":"Registrar",
+        "list.main.register.prop.action":"registrarse",
+        "list.main.register.prop.input":["nick","password","email","conditions"],
+        
+        "list.main.bids.prop.name":"bids",
+        "list.main.bids.prop.text.es":"Ofertas",
+        "list.main.bids.prop.action":"bids",
+        "list.main.bids.prop.input":["bids"],
+ 
+        
+         "list.main.demand.prop.name":"demand",
+        "list.main.demand.prop.text.es":"Demandas",
+        "list.main.demand.prop.action":"demand",
+        "list.main.demand.prop.input":["demand"],
+
+        
+   
+        
+        "list.how.why.prop.name":"why",
+        "list.how.why.prop.text.es":"Porque",
+        "list.how.why.prop.action":"porque",
+        "list.how.why.prop.input":"wht",
+   
+        
+        
+        "list.how.about.prop.name":"about",
+        "list.how.about.prop.text.es":"Nosotros",
+        "list.how.about.prop.action":"nosotros",
+        "list.how.about.prop.input":"about",
+   
+        "list.how.earn.prop.text.es":"Beneficios",
+        "list.how.earn.prop.action":"beneficios",
+        "list.how.earn.prop.input":"benefit",
+        
+        "list.how.cost.prop.name":"cost",
+        "list.how.cost.prop.text.es":"Costos",
+        "list.how.cost.prop.action":"costos",
+        "list.how.cost.prop.input":"cost"
+
+        
+       
+        
+        
+     },
+     "process":{
+         "process.search.button.main.prop.name":"search",
+         "process.search.button.main.prop.action":"service",
+         "process.search.input.main.prop.value":"Encuentra",
+         "process.search.label.main.prop.text.es":"Encuentra vendedores",
+         "process.search.input.main.prop.text.es":"Buscar",
+         "process.search.button.complete.prop.name":"autocompletar",
+         "process.search.button.complete.prop.action":"service",
+         "process.search.button.complete.prop.input":"service"
+     }
+}
+ 
+

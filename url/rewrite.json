@@ -1,0 +1,24 @@
+{
+"0":{
+   "id":"",
+   "type":"200",
+   "canonical":{"mx":""},
+   "module":"system.model.view",
+   "regx":"*"     
+   },
+"1":{
+   "id":"404",
+   "type":"404",
+   "canonical":{"mx":"404"},
+   "module":"system.found.view",
+   "rgx":"*"           
+   },
+ "2":{
+   "id":"request",
+   "type":"200",
+   "canonical":{"mx":"request"},
+   "module":"system.store.json",
+   "rgx":"*"     
+   }
+}
+

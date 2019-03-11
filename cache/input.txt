@@ -1,0 +1,6 @@
+{
+    "type": "GET",
+    "request": {
+        "0_action": "service"
+    }
+}

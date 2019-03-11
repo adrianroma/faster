@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+ RewriteEngine On
+ RewriteRule block /not_found [L]
+ RewriteRule attribute /not_found [L]
+ RewriteRule entity /not_found [L]
+ RewriteRule factory /not_found [L]
+ RewriteRule url /not_found [L]
+ RewriteRule history /not_found [L]
+ RewriteRule data /not_found [L]
+ RewriteBase /
+ RewriteRule ^index\.php$ - [L]
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteRule . /index.php [L]
+</IfModule>
