@@ -4,16 +4,16 @@
                      "host":"127.0.0.1",
                      "port":"27017",
                      "database":"profesion",
-                     "username":"general",
-                     "password":"papa700"
+                     "username":"username",
+                     "password":"username"
             },            
             
             
             "0" : {
-                    "host":"ds153123.mlab.com",
+                    "host":"server",
                     "port":"53123",
-                    "database":"heroku_6fn1b5km",
+                    "database":"database",
                     "username":"general",
-                    "password":"papa700"
+                    "password":"password"
             }
  }
